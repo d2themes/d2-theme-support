@@ -3,7 +3,6 @@
   "type": "library",
   "description": "Add and remove support for theme features through config.",
   "license": "MIT",
-  "version": "0.1.0",
   "authors": [
     {
       "name": "Craig Simpson",
